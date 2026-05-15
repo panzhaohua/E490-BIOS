@@ -1,0 +1,6 @@
+笔记本型号：联想ThinkPad E490 20N9
+主板编号：FE490/FE590/FE480 NM-B911  rev2.0  2019-01-17
+转速：2.0
+BIOS 芯片：Winbond 25Q128JVSQ
+类型：20N8-A010CD
+质量号：PF-1XHW5B 19/09
