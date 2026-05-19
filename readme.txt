@@ -4,3 +4,6 @@
 BIOS 芯片：Winbond 25Q128JVSQ
 类型：20N8-A010CD
 质量号：PF-1XHW5B 19/09
+
+
+w25q128bv
